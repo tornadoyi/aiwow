@@ -384,5 +384,5 @@ function json.decode(str)
   return res
 end
 
-
+Zerg.json = json
 return json

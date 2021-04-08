@@ -1,0 +1,21 @@
+## Interface: 90005
+## Title: Zerg
+## Notes: Dig hole to push data outside
+## Author: Jason Ku
+## X-Max-Interface: 90002
+## X-Min-Interface: 80000
+## LoadManagers: AddonLoader
+## X-LoadOn-Slash: /zerg
+## SavedVariables: ZergDB
+
+
+
+
+core/zerg.lua
+core/class.lua
+core/json.lua
+core/pixel.lua
+core/hole.lua
+core/config.lua
+cmd.lua
+main.lua
