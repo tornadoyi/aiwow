@@ -1,0 +1,9 @@
+## Interface: 80000
+## Title: AIBot
+## Author: Jason Ku
+## Notes: Utility for AI of World of Warcraft.
+
+
+
+json.lua
+pixel.lua
