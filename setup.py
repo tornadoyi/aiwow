@@ -7,7 +7,7 @@ setup(
     packages=[p for p in find_packages() if p.startswith('aiwow') or p.startswith('readwow')],
     entry_points={
         'console_scripts': [
-            'replay = replay.cli:main',
+            'aiwow = aiwow.cli:main',
         ],
     },
 )
